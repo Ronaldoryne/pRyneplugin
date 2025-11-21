@@ -1,0 +1,9 @@
+#koi-quote {
+    display: block;
+    margin-left: 15px;
+    padding-top: 5px;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+}
