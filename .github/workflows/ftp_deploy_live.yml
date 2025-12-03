@@ -39,7 +39,7 @@ jobs:
           server: ftp.sblk.com
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}         
-          server-dir: /public_html/wp-content/plugins-my-custom-plugin
+          server-dir: /public_html/wp-content/plugins-my-custom-plugin/
           exclude: |
             **/exclude/**
             **/.github/** 
